@@ -3,6 +3,13 @@
         "keywords":  [
             "hola",
             "hola!",
+            "¡hola!",
+            "Hola",
+            "Hola!",
+            "¡Hola!",
+            "HOLA",
+            "HOLA!",
+            "¡HOLA!",
             "ola",
             "ole",
             "inicio",
@@ -19,43 +26,292 @@
     },
     {
         "keywords":  [
-            "cursos",
+            "desarrollos",
             "info",
-            "curso"        ],
+            "depas"
+        ],
         "key": "STEP_2"
     },
     {
         "keywords":  [
-            "angular"
+            "Aladra",
+            "ALADRA",
+            "aladra"
         ],
         "key": "STEP_2_1"
     },
     {
         "keywords":  [
-            "node"
+            "Anuva",
+            "ANUVA",
+            "anuva"
         ],
         "key": "STEP_2_2"
     },
     {
         "keywords":  [
-            "ngrx"
+            "Brasilia",
+            "BRASILIA",
+            "brasilia"
         ],
         "key": "STEP_2_3"
     },
     {
         "keywords":  [
-            "aws"
+            "BosqueCapital",
+            "Bosque Capital",
+            "bosque capital",
+            "bosquecapital"
         ],
         "key": "STEP_2_4"
     },
     {
         "keywords":  [
-            "asesor",
-            "asesores",
-            "Vendedor",
-            "cobrador"
+            "Liva",
+            "liva",
+            "LIVA"
+        ],
+        "key": "STEP_2_5"
+    },
+    {
+        "keywords":  [
+            "si",
+            "sí",
+            "SI",
+            "yes"
         ],
         "key": "STEP_3"
+    },
+    {
+        "keywords":  [
+            "Llamada",
+            "llamada"
+        ],
+        "key": "STEP_3_1"
+    },
+    {
+        "keywords":  [
+            "A la 1 de la tarde",
+            "A la 2 de la tarde",
+            "A la 3 de la tarde",
+            "A la 4 de la tarde",
+            "A la 5 de la tarde",
+            "A la 6 de la tarde",
+            "A la 7 de la tarde",
+            "A la 8 de la tarde",
+            "A la 9 de la tarde",
+            "A la 10 de la tarde",
+            "A la 11 de la tarde",
+            "A la 12 de la tardes",
+            "A la 1 de la mañana",
+            "A la 2 de la mañana",
+            "A la 3 de la mañana",
+            "A la 4 de la mañana",
+            "A la 5 de la mañana",
+            "A la 6 de la mañana",
+            "A la 7 de la mañana",
+            "A la 8 de la mañana",
+            "A la 9 de la mañana",
+            "A la 10 de la mañana",
+            "A la 11 de la mañana",
+            "A la 12 de la mañana",
+            "a la 1 de la tarde",
+            "a la 2 de la tarde",
+            "a la 3 de la tarde",
+            "a la 4 de la tarde",
+            "a la 5 de la tarde",
+            "a la 6 de la tarde",
+            "a la 7 de la tarde",
+            "a la 8 de la tarde",
+            "a la 9 de la tarde",
+            "a la 10 de la tarde",
+            "a la 11 de la tarde",
+            "a la 12 de la tarde",
+            "a la 1 de la mañana",
+            "a la 2 de la mañana",
+            "a la 3 de la mañana",
+            "a la 4 de la mañana",
+            "a la 5 de la mañana",
+            "a la 6 de la mañana",
+            "a la 7 de la mañana",
+            "a la 8 de la mañana",
+            "a la 9 de la mañana",
+            "a la 10 de la mañana",
+            "a la 11 de la mañana",
+            "a la 12 de la mañana",
+            "A la 1 p.m",
+            "A la 2 p.m",
+            "A la 3 p.m",
+            "A la 4 p.m",
+            "A la 5 p.m",
+            "A la 6 p.m",
+            "A la 7 p.m",
+            "A la 8 p.m",
+            "A la 9 p.m",
+            "A la 10 p.m",
+            "A la 11 p.m",
+            "A la 12 p.m",
+            "a la 1 p.m",
+            "a la 2 p.m",
+            "a la 3 p.m",
+            "a la 4 p.m",
+            "a la 5 p.m",
+            "a la 6 p.m",
+            "a la 7 p.m",
+            "a la 8 p.m",
+            "a la 9 p.m",
+            "a la 10 p.m",
+            "a la 11 p.m",
+            "a la 12 p.m",
+            "A la 1 a.m",
+            "A la 2 a.m",
+            "A la 3 a.m",
+            "A la 4 a.m",
+            "A la 5 a.m",
+            "A la 6 a.m",
+            "A la 7 a.m",
+            "A la 8 a.m",
+            "A la 9 a.m",
+            "A la 10 a.m",
+            "A la 11 a.m",
+            "A la 12 a.m",
+            "a la 1 a.m",
+            "a la 2 a.m",
+            "a la 3 a.m",
+            "a la 4 a.m",
+            "a la 5 a.m",
+            "a la 6 a.m",
+            "a la 7 a.m",
+            "a la 8 a.m",
+            "a la 9 a.m",
+            "a la 10 a.m",
+            "a la 11 a.m",
+            "a la 12 a.m",
+            "A la 1 pm",
+            "A la 2 pm",
+            "A la 3 pm",
+            "A la 4 pm",
+            "A la 5 pm",
+            "A la 6 pm",
+            "A la 7 pm",
+            "A la 8 pm",
+            "A la 9 pm",
+            "A la 10 pm",
+            "A la 11 pm",
+            "A la 12 pm",
+            "a la 1 pm",
+            "a la 2 pm",
+            "a la 3 pm",
+            "a la 4 pm",
+            "a la 5 pm",
+            "a la 6 pm",
+            "a la 7 pm",
+            "a la 8 pm",
+            "a la 9 pm",
+            "a la 10 pm",
+            "a la 11 pm",
+            "a la 12 pm",
+            "A la 1 am",
+            "A la 2 am",
+            "A la 3 am",
+            "A la 4 am",
+            "A la 5 am",
+            "A la 6 am",
+            "A la 7 am",
+            "A la 8 am",
+            "A la 9 am",
+            "A la 10 am",
+            "A la 11 am",
+            "A la 12 am",
+            "a la 1 am",
+            "a la 2 am",
+            "a la 3 am",
+            "a la 4 am",
+            "a la 5 am",
+            "a la 6 am",
+            "a la 7 am",
+            "a la 8 am",
+            "a la 9 am",
+            "a la 10 am",
+            "a la 11 am",
+            "a la 12 am",
+            "Mañana a la 1 de la tardes",
+            "Mañana a la 2 de la tardes",
+            "Mañana a la 3 de la tardes",
+            "Mañana a la 4 de la tardes",
+            "Mañana a la 5 de la tardes",
+            "Mañana a la 6 de la tardes",
+            "Mañana a la 7 de la tardes",
+            "Mañana a la 8 de la tardes",
+            "Mañana a la 9 de la tardes",
+            "Mañana a la 10 de la tardes",
+            "Mañana a la 11 de la tardes",
+            "Mañana a la 12 de la tardes",
+            "mañana a la 1 de la tardes",
+            "mañana a la 2 de la tardes",
+            "mañana a la 3 de la tardes",
+            "mañana a la 4 de la tardes",
+            "mañana a la 5 de la tardes",
+            "mañana a la 6 de la tardes",
+            "mañana a la 7 de la tardes",
+            "mañana a la 8 de la tardes",
+            "mañana a la 9 de la tardes",
+            "mañana a la 10 de la tardes",
+            "mañana a la 11 de la tardes",
+            "mañana a la 12 de la tardes",
+            "Mañana a la 1 de la mañana",
+            "Mañana a la 2 de la mañana",
+            "Mañana a la 3 de la mañana",
+            "Mañana a la 4 de la mañana",
+            "Mañana a la 5 de la mañana",
+            "Mañana a la 6 de la mañana",
+            "Mañana a la 7 de la mañana",
+            "Mañana a la 8 de la mañana",
+            "Mañana a la 9 de la mañana",
+            "Mañana a la 10 de la mañana",
+            "Mañana a la 11 de la mañana",
+            "Mañana a la 12 de la mañana",
+            "mañana a la 1 de la mañana",
+            "mañana a la 2 de la mañana",
+            "mañana a la 3 de la mañana",
+            "mañana a la 4 de la mañana",
+            "mañana a la 5 de la mañana",
+            "mañana a la 6 de la mañana",
+            "mañana a la 7 de la mañana",
+            "mañana a la 8 de la mañana",
+            "mañana a la 9 de la mañana",
+            "mañana a la 10 de la mañana",
+            "mañana a la 11 de la mañana",
+            "mañana a la 12 de la mañana",
+            "mañana por la tarde",
+            "mañana por la mañana",
+            "mañana por la noche",
+            "hoy",
+            "tengo disponible ahorita",
+            "tengo chance ahorita",
+            "ahorita",
+            "Ahorita",
+            "mañana"
+        ],
+        "key": "STEP_3_1_1"
+    },
+    {
+        "keywords":  [
+            "Whatsapp",
+            "whatsapp",
+            "WHATSAPP",
+            "whatsap",
+            "Whatsapp"
+        ],
+        "key": "STEP_3_1_2"
+    },
+    {
+        "keywords":  [
+            "no",
+            "No",
+            "NO"
+        ],
+        "key": "STEP_3_2"
     },
     {
         "keywords":  [
@@ -65,29 +321,5 @@
             "vale gracias"
         ],
         "key": "STEP_4"
-    },
-    {
-        "keywords":  [
-            "youtube"
-        ],
-        "key": "STEP_5"
-    },
-    {
-        "keywords":  [
-            "VER_CURSOS"
-        ],
-        "key": "STEP_6"
-    },
-    {
-        "keywords":  [
-            "telegram"
-        ],
-        "key": "STEP_7"
-    },
-    {
-        "keywords":  [
-            "audio"
-        ],
-        "key": "STEP_8"
     }
 ]

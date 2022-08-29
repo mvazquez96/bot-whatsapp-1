@@ -1,13 +1,12 @@
 {
-    "type": "",
-    "project_id": "",
-    "private_key_id": "",
-    "private_key":"",
-    "client_email": "",
-    "client_id": "",
-    "auth_uri": "",
-    "token_uri": "",
-    "auth_provider_x509_cert_url": "",
-    "client_x509_cert_url":""
-  }
-  
+  "type": "service_account",
+  "project_id": "chatbot-ry9n",
+  "private_key_id": "8889b86d7f68279ce5a8f9b4d6528c303c5c8ac0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSY5CpHpecEw9e\n1AcX5h2Qdce/VxO93B0N5+8yD0LNLVk0JeeE6DDnzYhA7x+vs8Soz3iRUPFauaau\nNDXDaon4IWfeHxQGZT+26hskcDCjn9v1z3FkaR+kdPAhYHXPdEr4DqdlJwIUyYoX\n644Qg9n9B9V/VlemuL2Yiy7V9V9K/iTLyvD3rbhOTwAONlAk1z57A/1cOpc1OLUN\nH6kpsaIRFHsFGcOQoFrt4r8606l2/bqSNxfuEDKJ8N8q0XLoiXAt0N07Wt1waHg+\n9i7JOpZ9rGUXgOx+o6B+qk/XUWV2C9AotvmE5HLLs9sFX4xwxnpMK0QM9Vlp/2fx\n4EcVKvdPAgMBAAECggEABLoL7ZP5LNGyZ+g0YjF47iskDVGnHErhTdPgjqvDgNli\nxnmOvAoWnzHOiXbveIKxCZt8eZDrlNg68HFn2J4aJdYwss+liYc/NgLVQ62DMKOB\nmgIxHMpn1ZZy/RNhUjaqQIYQjx5s1r64a+7BrSLpN0NOMdaX9yNYNYcnyp+apnqi\nZTq8lWZ+mlJMpKtfOl+409MkxiY0uyKGBVaeyHIOEhDv922tnzZROv2lyodTslKB\nrP82YS0MAuFUuzS8eQ1dZ7FzOpaod83G5+zzlyZDkRmRtcQ5j99zft08rO8dyiW0\nA720873Jw77flVnpaNYbhFCvcFfhXgbhUCjZjXARgQKBgQD3Q0+TrkpdVZRnA8i8\n9oFaj0WxFRYLYvv2upRfC1RGIwtqZZdSl/Yf4InoFGEIPAK2CkjgrcUUy5a5hEit\nf3WECRHXtgYplJXliAdtEViGJIVtVKgr+Mk1eVRPT9S35HRRzgSpgKV2IJetOaaq\n6Uy80wH9IvkhcY0GMkDreBvWbwKBgQDZ0rMaf5X8Cb/+aPBW/4E3qfUirE0ls+fV\nyJeCMj+SthWCDx+kWbFRJilX61j/YzZpHJrwLUSUv/8b4+Wr2qzYRyl5y6lvWEST\nQMxYi/SCGPjbXNVkN8kAj2WpFGyOeG9EhNILVMqDZCGmjwbHmPIz1lFysD22SGHO\nMvi0lTJdIQKBgC9hOIhl514HHg63TOnYmmTN+165WaYI65sVmYS02Qsvf+p9WQe8\nkq79Ca/s58L6LNLRGbHj2lXnxRP7YynLuKr6Se75tCiXjjmTXUjq//mEWgTfKfJz\nE6spepxQAcTTA+8A+Se5vPrrt+S7nVI2rjuoe0MURoTAC3PagVIdi8gFAoGARpTT\nnF6DRywRnmp6lnYsdNEJsbaLORBWqxtYnMOTfgKqbX5hDmxR3K2079w+9mI7m0u9\nmN3SPzEHhQ4PueQd5ecJNYIc4QuFDQIONRMEo7Nb0BkAvHynERtmIaeQlYnI5Db1\nqN5M0M59aO8njz2sHcfwlG0vUgWaS6qQlFNUAoECgYEA9jvQWE6em3qf/12siF8o\nLCJhRN73MOWjR+xOH1XiOjq2c5RjHJYrQk4IdmarjBIIgMaLw3BqvK7bRSl30Zxn\nnX4Vv3jXbovHQXFz3aY3btpgdCm89mlvwvg9MESuI6FV17C/UYiH6murk4Px3dcL\nnDY38KxNSDqzZB/kPfJG1f4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@chatbot-ry9n.iam.gserviceaccount.com",
+  "client_id": "105504181245251229265",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40chatbot-ry9n.iam.gserviceaccount.com"
+}

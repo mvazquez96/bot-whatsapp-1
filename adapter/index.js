@@ -56,7 +56,7 @@ const getIA = (message) => new Promise((resolve, reject) => {
     /**
      * Si usas dialogflow
      */
-     if (process.env.DATABASE === 'dialogflow') {
+    if (process.env.DATABASE === 'dialogflow') {
         let resData = { replyMessage: '', media: null, trigger: null }
         getDataIa(message,(dt) => {
             resData = { ...resData, ...dt }

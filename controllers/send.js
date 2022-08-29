@@ -90,8 +90,19 @@ const lastTrigger = (number) => new Promise((resolve, reject) => {
             .then(() => {
                 const worksheet = workbook.getWorksheet(1);
                 const lastRow = worksheet.lastRow;
-                const getRowPrevStep = worksheet.getRow(lastRow.number);
-                const lastStep = getRowPrevStep.getCell('C').value;
+                let getRowInsert = worksheet.getRow(++lastRow.number);
+                getRowInsert.getCell('A').value = today;
+                getRowInsert.getCell('B').value = today;
+                getRowInsert.commit();
+                worksheet.xlsx.writeFile(pathExcel)
+                .then(() => {
+                    console.log('Worksheet saved successfully');
+                })
+                .catch(() =>{
+                    console.log('Worksheet failed to save');
+                });
+                //const getRowPrevStep = worksheet.getRow(lastRow.number);
+                //const lastStep = getRowPrevStep.getCell('C').value;
                 resolve(lastStep)
             });
     } else {
