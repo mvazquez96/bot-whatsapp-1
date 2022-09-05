@@ -1,5 +1,5 @@
 const {connection} = require('../config/mysql')
-const DATABASE_NAME = process.env.SQL_DATABASE || 'db_test'
+const DATABASE_NAME = process.env.SQL_DATABASE || 'chatbot'
 
 getData = (message = '', callback) => connection.query(
     `SELECT * FROM ${DATABASE_NAME}.initial WHERE keywords LIKE '%${message}%'  LIMIT 1`,
