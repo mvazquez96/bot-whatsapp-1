@@ -3,7 +3,7 @@ const connection = mysql.createConnection({
   host     : process.env.SQL_HOST || 'localhost',
   user     : process.env.SQL_USER || 'root',
   password : process.env.SQL_PASS || '',
-  database : process.env.SQL_DATABASE || 'pruebas'
+  database : process.env.SQL_DATABASE || 'chatbot'
 });
 
 const connect = () => connection.connect(function(err) {
